@@ -1,15 +1,20 @@
 LXRobotics P16 PowerShield
-==============
+==========================
 
-![LXRobotics P16 PowerShield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_power_shield_side_small.jpg)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Weitere Informationen / Further Information
+# Image
 
-* **DE:** https://www.lxrobotics.com/produkte/arduino-shields/power-shield
-* **EN:** https://www.lxrobotics.com/en/products/arduino-shields/power-shield
+![LXRobotics P16 PowerShield](https://raw.githubusercontent.com/lxrobotics/PowerShield/master/images/power-shield-side-small.jpg)
 
-## Lizenz / License
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 Unported)
+# Description
 
-* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
-* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+The LXRobotics Power Shield facilitates the high power supply of an Arduino Board over a wide input voltage range. Furthermore, the Power Shield allows the usage of Shields with high power requirements, which can not be supplied solely by the linear regulator of the Arduino (such as the Servo Shield when connecting 18 servos). A reverse polarity protection protects the Power Shield against destruction caused by faulty connections of the input voltage.
+
+**Features**
+
+* High power supply over wide input voltage rande 6 - 24 V DC
+* Allows usage of Shields with high power requirements ()
+* Reverse polarity protection
+* Status-LED
+* High-quality pluggable screw terminals for easy and stable connection of the supply
