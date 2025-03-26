@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P16 PowerShield](https://raw.githubusercontent.com/lxrobotics/PowerShield/master/images/power-shield-side-small.jpg)
+![LXRobotics P16 PowerShield](images/power-shield-side-small.jpg)
 
 # 📂 Description
 
